@@ -1,4 +1,6 @@
 # Welcome to Thrifty
+
+[![Join the chat at https://gitter.im/wurde/thrifty](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wurde/thrifty?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Our mission is cashflow lifestyles.
 
 > Industry, thrift and self-control are not sought because they create wealth, but because they create character.
